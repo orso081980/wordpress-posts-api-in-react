@@ -1,3 +1,17 @@
+$grey1: #282c34;
+$blue1: #61dafb;
+
 body {
-	
+	.blog-archive-readmore {
+		margin-top: 10px;
+		padding: 10px;
+		border: 1px solid $blue1;
+		a {
+			color: #282c34;
+			text-decoration: none;
+			text-transform: uppercase;
+		}
+		display: inline-block;
+	}
 }
+

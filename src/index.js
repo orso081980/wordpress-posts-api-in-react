@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ReturnWordpress from './components/blog';
+import './App.scss';
 
 const mountNode = document.getElementById('root');
 
